@@ -16,7 +16,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagotj7&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagotj7&theme=blue-green)
 
 💡 Explorando os horizontes da cibersegurança, adquirindo conhecimento e desenvolvendo soluções para um mundo digital mais seguro. 🛡️💻🔍
 
