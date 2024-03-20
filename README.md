@@ -23,3 +23,5 @@
 
 ### Últimos videos:
 - [Rápido e Eficiente: Descubra a Diferença entre HDD, SSD e SSD NVMe!!](https://www.youtube.com/watch?v=KhF5TnfyJro&t=7s)<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
