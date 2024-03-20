@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/exploraweb_oficial/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagocarvalhog2020/)
 
-![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiagotj7&show_icons=true&theme=tokyonight&count_private=true)
+![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiagotj7&theme=blue-green)
 
 ## Tecnologias que eu uso no meu dia
 
