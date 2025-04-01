@@ -29,5 +29,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagotj7&theme=blue-green)
 
-💡 Explorando os horizontes da cibersegurança, adquirindo conhecimento e desenvolvendo soluções para um mundo digital mais seguro. 🛡️💻🔍
 
