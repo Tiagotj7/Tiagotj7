@@ -5,18 +5,25 @@
   Estudante e profissional apaixonado por tecnologia, sempre buscando inovar e criar soluções digitais seguras.
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Hacker/Programmer gif" width="500"/>
-</p>
-
 ---
 
 ## 🚀 Sobre mim
+
+<table>
+  <tr>
+    <td>
 
 - 🔧 Atuo com **desenvolvimento web e mobile** (frontend & backend)  
 - 🔐 Experiência prática em **cibersegurança** (Blue Team, proteção de contas, boas práticas de segurança em aplicações)  
 - 🌱 Atualmente aprimorando minhas habilidades em **TypeScript e Back-end escalável**  
 - 🎯 Objetivo: impactar pessoas através de projetos tecnológicos que unem **usabilidade + segurança**
+
+</td>
+    <td align="center">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTd6c3R5d2txZTlyMXQwbDRicTE1c2w2dWRlZmFhYmo4ZmV1cnkycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="400"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
